@@ -18,6 +18,7 @@ Interpretação de análise de solo e recomendação de calagem e adubação.
 Agricultura de precisão e uso de softwares agronômicos.
 Georreferenciamento e mapeamento de áreas agrícolas.
 Conhecimento em fertilidade do solo, nutrição de plantas e manejo sustentável.
+![Design sem nome (1)](https://github.com/user-attachments/assets/4d9dc9b9-75c6-49ce-af04-bd7207a468be)
 
 
 
