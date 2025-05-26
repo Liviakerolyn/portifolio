@@ -1,6 +1,6 @@
 🌱 Portfólio Profissional 
-Olá, meu nome é Livia Kérolyn
-Engenheira Agrônoma | Especialista em Análise de Solos
+Olá, meu nome é Livia Kérolyn.
+Especialista em Análise de Solos
 
 👩‍🔬 Sobre Mim
 Sou Engenheira Agrônoma, atuando na área de análise de solos e manejo sustentável. Tenho paixão por transformar dados em decisões agronômicas assertivas, contribuindo para a produtividade no campo e para a preservação ambiental. Meu trabalho combina conhecimento técnico com sensibilidade às necessidades dos produtores rurais.
